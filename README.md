@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PancakesLmao
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- I’m interested in both game and web developing
 
 
 <!---
