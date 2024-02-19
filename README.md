@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @PancakesLmao
-- Just an ordinary Computer Science Student
-
+<h2>👋 Hi, I’m @PancakesLmao</h2>
+<h3> Just an ordinary Computer Science Student </h3>
+###
+<h2 align=left >About me</h2>
+<p>I started my journey as software developer in 2023. Although relatively new to the field, I am enthusiastic about learning and constantly improving my skills</p>
 ###
 
 <div align="center">
