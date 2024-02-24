@@ -1,19 +1,19 @@
 
 <div>
+  <img align="right" src="https://media1.tenor.com/m/Scvhaq655n0AAAAC/schwi.gif" height="250" />
   <div aligh="left">
     <h2>👋 Hi, I’m @PancakesLmao</h2>
     <p> Just an ordinary Computer Science Student </p>
   </div>
-  <img align="right" src="https://media1.tenor.com/m/Scvhaq655n0AAAAC/schwi.gif" height="250" />
 </div>
 
 
-<h2 align=left >About me</h2>
+<h2>About me</h2>
 <p>I started my journey as software developer in 2023. Although relatively new to the field, I am enthusiastic about learning and constantly improving my skills</p>
 
-<div >
+<div>
   <h2>Github Status</h2>
-  <div <div align="center">>
+  <div <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=PancakesLmao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PancakesLmao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   </div>
