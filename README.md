@@ -4,9 +4,18 @@
     <p> Just an ordinary Computer Science Student </p>
   </div>
   <div>
-    <img src="https://media1.tenor.com/m/Scvhaq655n0AAAAC/schwi.gif" height=200 alt=gif/>
+    <img src="" height=200 alt=gif/>
   </div>
 </div>
+<table>
+  <tr>
+    <td>About Me</td>
+    <td valign="center">
+      <img src="https://media1.tenor.com/m/Scvhaq655n0AAAAC/schwi.gif" alt="gif" />
+    </td>
+  </tr>
+</table>
+
 
 <h2 align=left >About me</h2>
 <p>I started my journey as software developer in 2023. Although relatively new to the field, I am enthusiastic about learning and constantly improving my skills</p>
