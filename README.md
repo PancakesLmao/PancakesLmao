@@ -1,5 +1,5 @@
-<div>
-  <div>
+<div style="display: flex;">
+  <div align="left">
     <h2>👋 Hi, I’m @PancakesLmao</h2>
     <p> Just an ordinary Computer Science Student </p>
   </div>
