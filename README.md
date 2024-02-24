@@ -3,7 +3,7 @@
   <tr>
     <td valign="top"><h2>👋 Hi, I’m @PancakesLmao</h2>
     <p> Just an ordinary Computer Science Student </p></td>
-    <td valign="top"><img src="https://media1.tenor.com/m/Scvhaq655n0AAAAC/schwi.gif"/></td>
+    <td valign="top"><img align="right" src="https://media1.tenor.com/m/Scvhaq655n0AAAAC/schwi.gif"/></td>
   </tr>
 </table>
 
