@@ -1,11 +1,12 @@
-<div aligh="left">
-  <img align="right" src="https://media1.tenor.com/m/Scvhaq655n0AAAAC/schwi.gif" height="150" />
-  <h2>👋 Hi, I’m @PancakesLmao</h2>
-  <p> Just an ordinary Computer Science Student </p>
-</div>
 
-<h2>About me</h2>
-<p>I started my journey as software developer in 2023. Although relatively new to the field, I am enthusiastic about learning and constantly improving my skills</p>
+<div>
+	<img align="right" src="https://media1.tenor.com/m/Scvhaq655n0AAAAC/schwi.gif" height="200" />			<h3>👋 Hi, I’m @PancakesLmao</h3>
+	<p> Just an ordinary Computer Science student <br>Novice Web Developer<br>MMD Creator</p>
+</div>
+<div>
+	<h2>About me</h2>
+	<p>I started my journey as software developer in 2023. Although relatively new to the field, I am enthusiastic about learning and constantly improving my skills</p>
+</div>
 
 <div>
   <h2>Github Status</h2>
