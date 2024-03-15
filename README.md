@@ -5,7 +5,7 @@
   
 - Just an ordinary Computer Science student    
 - Web Dev Enjoyer   
-- Novice MMD Creator   
+- Novice IoT Programmer  
 </div>   
 
 <div>
