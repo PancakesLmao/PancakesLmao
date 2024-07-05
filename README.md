@@ -10,7 +10,7 @@
 
 <div>
   <h2>About me</h2>
-  <p>I started my journey as a front-end developer in 2022 and am currently a second-year student. I’m looking for internships to enhance my programming skills through real-life projects and further my journey toward becoming a skilled web developer. I'm also interested in IoT programming and looking for ways to combine these two majors.</p>
+  <p>I started my journey as a front-end developer in 2022 and currently a second-year student. I’m looking for internships to enhance my programming skills through real-life projects and further my journey toward becoming a skilled web developer. I'm also interested in IoT programming and looking for ways to combine these two majors.</p>
 </div>
 
 <div>
