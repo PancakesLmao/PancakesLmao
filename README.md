@@ -10,7 +10,9 @@
 
 <div>
   <h2>About me</h2>
-  <p>I started my journey as a front-end developer in 2022 and currently a second-year student. I’m looking for internships to enhance my programming skills through real-life projects and further my journey toward becoming a skilled web developer. I'm also interested in IoT programming and looking for ways to combine these two majors.</p>
+  <p>"Front-end developer since 2022. I'm currently studying computer science at Swinburne University and working to enhance my skills in web development. I love creating creative websites about games and anime. I'm also interested in IoT programming and exploring ways to combine these two fields."
+
+Let me know if you'd like to adjust anything else!</p>
 </div>
 
 <div>
@@ -34,6 +36,8 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
       <img width="12" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="30" alt="mysql logo"  />
+      <img width="12" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
       <img width="12" />
     </div>
 </div>
