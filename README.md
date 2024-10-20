@@ -4,7 +4,7 @@
   <h3>👋 Hi, I’m @PancakesLmao</h3>
   
 - Just an ordinary Computer Science student    
-- Web Dev Enjoyer   
+- Frontend Dev Enjoyer   
 - Novice IoT Programmer  
 </div>   
 
