@@ -10,7 +10,7 @@
 
 <div>
   <h2>About me</h2>
-  <p>Front-end developer since 2022. I'm currently studying computer science at Swinburne University and working to enhance my skills in web development. I love creating creative websites about games and anime. I'm also interested in IoT programming and exploring ways to combine these two fields.</p>
+  <p>Front-end developer since 2022. I'm currently studying computer science at Swinburne University and working to enhance my skills in web development. I'm also interested in IoT programming and exploring ways to combine these two fields.</p>
 </div>
 
 <div>
