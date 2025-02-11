@@ -4,13 +4,14 @@
   <h3>👋 Hi, I’m @PancakesLmao</h3>
   
 - Just an ordinary Computer Science student    
-- Frontend Dev Enjoyer   
+- Frontend Dev Enjoyer
+- Novice Cloud Engineer
 - Novice IoT Programmer  
 </div>   
 
 <div>
   <h2>About me</h2>
-  <p>Front-end developer since 2022. I'm currently studying computer science at Swinburne University and working to enhance my skills in web development. I'm also interested in IoT programming and exploring ways to combine these two fields.</p>
+  <p>Front-end developer since 2022. I'm currently studying computer science at Swinburne University and working to enhance my skills in web development. I'm also interested in IoT programming, Cloud Computing and exploring ways to combine these two fields.</p>
 </div>
 
 <div>
