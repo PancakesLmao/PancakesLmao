@@ -26,26 +26,26 @@
 <div align="left">
   <h2>Languages and Tools</h2>
     <div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="javascript logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotin logo"  />
-      <img width="12" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-      <img width="12" />
-      <img src="http://svgrepo.com/show/448266/aws.svg" height="30" alt="aws logo"  />
-      <img width="12" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="30" alt="mysql logo"  />
-      <img width="12" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongodb/mongodb-original.svg" height="30" alt="cplusplus logo"  />
-      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+      <img width="10" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
+      <img width="10" />
+      <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/JavaScript.svg" height="35" alt="javascript logo"  />
+      <img width="10" />
+      <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/TypeScript.svg" height="35" alt="typescript logo"  />
+      <img width="10" />
+      <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/React-Dark.svg" height="35" alt="react logo"  />
+      <img width="10" />
+      <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Kotlin-Dark.svg" height="35" alt="kotin logo"  />
+      <img width="10" />
+      <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/CPP.svg" height="35" alt="cplusplus logo"  />
+      <img width="10" />
+      <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/AWS-Dark.svg" height="35" alt="aws logo"  />
+      <img width="10" />
+      <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MySQL-Dark.svg" height="35" alt="mysql logo"  />
+      <img width="10" />
+      <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MongoDB.svg" height="35" alt="cplusplus logo"  />
+      <img width="10" />
     </div>
 </div>
 
