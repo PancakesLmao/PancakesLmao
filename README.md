@@ -11,7 +11,7 @@
 
 <div>
   <h2>About me</h2>
-  <p>Front-end developer since 2022. I'm currently studying computer science at Swinburne University and working to enhance my skills in web development. I'm also interested in IoT programming, Cloud Computing and exploring ways to combine these two fields.</p>
+  <p>Front-end developer since 2022. I'm currently studying computer science at Swinburne University and working to enhance my skills in web development. I'm also interested in IoT programming, Cloud Computing and exploring ways to combine these fields.</p>
 </div>
 
 <div>
@@ -36,13 +36,17 @@
       <img width="10" />
       <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/React-Dark.svg" height="35" alt="react logo"  />
       <img width="10" />
+      <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/VueJS-Dark.svg" height="35" alt="vue logo"  />
+      <img width="10" />
       <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Kotlin-Dark.svg" height="35" alt="kotin logo"  />
       <img width="10" />
-      <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/CPP.svg" height="35" alt="cplusplus logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Arduino.svg" height="35" alt="arduino logo"  />
+      <img width="10" />
+      <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/RaspberryPi-Dark.svg" height="35" alt="raspberry logo"  />
       <img width="10" />
       <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/AWS-Dark.svg" height="35" alt="aws logo"  />
       <img width="10" />
-      <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MySQL-Dark.svg" height="35" alt="mysql logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/PostgreSQL-Dark.svg" height="35" alt="mysql logo"  />
       <img width="10" />
       <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MongoDB.svg" height="35" alt="cplusplus logo"  />
       <img width="10" />
