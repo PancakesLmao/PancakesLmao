@@ -39,7 +39,7 @@
       <img width="10" />
       <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/VueJS-Dark.svg" height="35" alt="vue logo"  />
       <img width="10" />
-      <img src="https://avatars.githubusercontent.com/u/119793569?s=200&v=4" height="35" alt="kotin logo"  />
+      <img src="https://skillicons.dev/icons?i=elysia" height="35" alt="kotin logo"  />
       <img width="10" />
       <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Arduino.svg" height="35" alt="arduino logo"  />
       <img width="10" />
