@@ -17,8 +17,9 @@
 <div>
   <h2>Github Status</h2>
   <div <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PancakesLmao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-    <img src="https://github-readme-stats.vercel.app/api?username=PancakesLmao&show_icons=true&theme=dracula&locale=en&include_all_commits=true&count_private=true" height="150" alt="my_stats"  />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=PancakesLmao&show_icons=true&theme=dracula" height="150" alt="my_stats"  />
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=PancakesLmao&theme=dracula" height="150" alt="streak"  />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PancakesLmao&layout=compact&theme=dracula" height="150" alt="languages graph"  />
   </div>
 </div>
 
@@ -38,7 +39,7 @@
       <img width="10" />
       <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/VueJS-Dark.svg" height="35" alt="vue logo"  />
       <img width="10" />
-      <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Kotlin-Dark.svg" height="35" alt="kotin logo"  />
+      <img src="https://avatars.githubusercontent.com/u/119793569?s=200&v=4" height="35" alt="kotin logo"  />
       <img width="10" />
       <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Arduino.svg" height="35" alt="arduino logo"  />
       <img width="10" />
