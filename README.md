@@ -5,8 +5,8 @@
   
 - Just an ordinary Computer Science student    
 - Frontend Dev Enjoyer
-- Novice Cloud Engineer
-- Novice IoT Programmer  
+- Cloud Engineer (Expected) >> Clown Engineer (Reality)
+- Enthusiast IoT Programmer  
 </div>   
 
 <div>
