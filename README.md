@@ -39,13 +39,11 @@
       <img width="10" />
       <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/VueJS-Dark.svg" height="35" alt="vue logo"  />
       <img width="10" />
-      <img src="https://skillicons.dev/icons?i=elysia" height="35" alt="kotin logo"  />
-      <img width="10" />
-      <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Arduino.svg" height="35" alt="arduino logo"  />
-      <img width="10" />
       <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/RaspberryPi-Dark.svg" height="35" alt="raspberry logo"  />
       <img width="10" />
       <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/AWS-Dark.svg" height="35" alt="aws logo"  />
+      <img width="10" />
+      <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Azure-Dark.svg" height="35" alt="azure logo"  />
       <img width="10" />
       <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/PostgreSQL-Dark.svg" height="35" alt="mysql logo"  />
       <img width="10" />
